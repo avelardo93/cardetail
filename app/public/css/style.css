@@ -1,0 +1,17 @@
+body {
+	background-color: black;
+}
+
+#bio {
+	font-size: 25px;
+	line-height: 37px;
+	color: white;
+}
+
+nav {
+	background-color: dimgray;
+}
+
+h1 {
+	color: white;
+}
